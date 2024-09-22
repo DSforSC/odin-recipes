@@ -1,0 +1,29 @@
+h1{
+  font-size: 48px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+p{
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: sans-serif;
+}
+.recipe{
+  font-size: 24px;
+}
+.recipe .link{
+  text-decoration: underline;
+  color: blue;
+}
+
+.ingredients{
+  font-size: 24px;
+  font-style: italic;
+}
+
+.instructions{
+  font-size: 24px;
+  font-style: italic;
+}
